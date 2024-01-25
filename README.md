@@ -15,7 +15,7 @@ To run the script, simply execute it in your Python environment:
 The script will display the names of WiFi profiles and their corresponding passwords (if available).
 
 **To Do List :**
-    [ ] <li><input type="checkbox" checked disabled> - [x] Publish Initial Version of the Website </li>
+    <li><input type="checkbox" checked> - [ ] Design a user interface for a console application </li>
 
 
 ## Disclaimer
